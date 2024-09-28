@@ -1,5 +1,6 @@
 // C++ Program starts here
 #include <iostream>
+#include <string> 
 using namespace std;
     
     

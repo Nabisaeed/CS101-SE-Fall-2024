@@ -1,21 +1,15 @@
 // C++ Program starts here
 #include <iostream>
-#include <string> 
 using namespace std;
     
     
 int main()
 {
-    string s1; 
+string s1="Pass", s2="Failed ";
 
-  getline(cin, s1);
+    int grade=71;
+    cout << ( grade >= 60 ? s1 : s2 );
 
-    
-
-    cout<<s1.length()<<      endl;
-
-
-    
      return 0;
     
 }
