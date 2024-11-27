@@ -10,7 +10,7 @@ int main()
 
      int arr1[2][2]={{6,4}, {8,7}};  
 
-     int arr3[2][2]={0};
+     int arr3[2][2]={};
 
      for(int i=0; i<=1; i++){
 
